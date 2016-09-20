@@ -1,0 +1,54 @@
+@CHARSET "UTF-8";
+html {
+    min-width:300px;
+    min-height:400px;
+}
+
+body {
+    margin:0px;
+    padding:1%;
+    background-color:white;
+}
+
+#line{
+	border:1px solid #F0F0F0;
+	width:98%;
+	height:2px;
+}
+
+#jie{
+	width:100%;
+
+}
+
+#cai table{
+	width: 100%;
+}
+#cai table tr{
+	margin:0px;
+    padding:0px;
+}
+
+#cai table tr td img{
+	width:100px;
+}
+
+#foot{
+	background-color:#E8EAE9; 
+    width:100%;
+    bottom:0;
+    left:0;
+    position: fixed;
+}
+a{
+	text-decoration: none;
+	color:red;
+}
+
+
+
+
+
+
+
+
